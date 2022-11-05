@@ -1,0 +1,46 @@
+.cajita{
+    background-color: aliceblue;
+    width: 300px;
+    margin: 0 auto;
+    border: 2px solid darkcyan;
+    box-shadow: 20px 8px 26px 1px rgba(0, 0,0,49);
+    -webkit-box-shadow: 20px 8px 26px 1px rgba(0,0,0,0,49) ;
+        
+}
+
+.cajita img{
+    width: 30%;
+    border-radius: 50%;
+    border: 3px solid black;
+    right: 30px;
+    width: 60px;
+    display: block;
+    margin: 2px auto;
+}
+form button{
+    display: block;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    margin: 15px auto;
+}
+.cajita p{
+    text-align: justify;
+    padding: 20px;
+
+}
+    .cajita h1{
+        width: 50%;
+        margin: 0 auto;
+        text-align: center;
+        border-bottom: 3px dashed rgba(9, 8, 8, 0.801);
+}
+.cajita h2{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    border-bottom: 3px dashed red;
+    
+}
+
